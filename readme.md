@@ -9,7 +9,7 @@ cd composetest
 docker-compose up
 ```
 # Web pages
-Selenoid UI exists at localhost:8080
+Selenoid UI exists at localhost:8080. 
 Demo app exists at localhost:5000
 
 # Running the demo
